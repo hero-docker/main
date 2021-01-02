@@ -4,6 +4,8 @@ Read article: [Auto-deploy FastAPI App to Heroku via Git in these 5 Easy Steps](
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+[Creating a 'Deploy to Heroku' Button](https://devcenter.heroku.com/articles/heroku-button)
+
 ## Data
 
 The Iris dataset is a simple, yet popular dataset consisting of 150 observations. Each observation captures the sepal length, sepal width, petal length, petal width of an iris (all in cm) and the corresponding iris subclass (one of *setosa, versicolor, virginica*).
