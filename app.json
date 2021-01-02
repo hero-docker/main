@@ -1,0 +1,5 @@
+{
+    "name": "Iris Classifier FastAPI",
+    "description": "Serving Iris Classifier with FastAPI",
+    "repository": "https://github.com/slevin48/iris-classifier-fastapi"
+  }
